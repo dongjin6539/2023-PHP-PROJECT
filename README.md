@@ -1,5 +1,5 @@
 # 2023-PHP-PROJECT
-![image](https://github.com/dongjin6539/php2023/blob/main/readme.png)
+![image](https://github.com/dongjin6539/2023-PHP-PROJECT/blob/main/readme.png)
 
 팀 프로젝트로 4명의 구성원으로 제작한 사이트입니다. php를 사용해서 페이지를 생성하고 데이터베이스와 상호작용해서 제작했습니다.
 
